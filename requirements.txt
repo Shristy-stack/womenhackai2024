@@ -11,3 +11,13 @@ python-dotenv
 unstructured
 tiktoken
 OpenAI
+pdfplumber
+pypdf2
+docx
+numpy
+pandas
+requests
+pytesseract
+pdf2image
+keybert
+tabulate
