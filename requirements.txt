@@ -1,0 +1,13 @@
+pypdf
+langchain
+torch
+accelerate
+ctransformers
+sentence_transformers
+faiss_cpu
+streamlit
+langchain_community
+python-dotenv
+unstructured
+tiktoken
+OpenAI
